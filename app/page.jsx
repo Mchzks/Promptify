@@ -8,7 +8,7 @@ const Home = () => (
       <span className='red_gradient text-center'>AI-Powered Prompts</span>
     </h1>
     <p className='desc text-center'>
-      Promptify is an open-source AI prompting tool for modern world to discover, create and share creative prompts.
+      PromptDeck is a tool for discover, create and share creative prompts.
     </p>
     
     <Feed />
