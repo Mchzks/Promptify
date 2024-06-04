@@ -5,7 +5,7 @@ const Home = () => (
     <h1 className='head_text text-center'>
       Discover & Share
       <br className='max-md:hidden' />
-      <span className='red_gradient text-center'>AI-Powered Prompts</span>
+      <span className='red_gradient text-center'>Prompts</span>
     </h1>
     <p className='desc text-center'>
       PromptDeck is a tool for discover, create and share creative prompts.
